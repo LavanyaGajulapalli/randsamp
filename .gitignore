@@ -1,0 +1,7 @@
+**/videos
+**/training_data
+**/validation_data
+**/inference_graphs
+**/snapshots
+**/__pycache__
+**/semi_labelled_data
